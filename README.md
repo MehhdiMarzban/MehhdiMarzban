@@ -14,25 +14,31 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-REST%20API-00A400?style=for-the-badge&logo=api&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=material-ui&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin: 5px;" />
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=js" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=typescript" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=react" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=redux" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=docker" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=mysql" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=html" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=css" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=sass" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=mui" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=figma" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=linux" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=webpack" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=git" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=npm" style="margin: 5px;" />
   </p>
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-REST%20API-00A400?style=for-the-badge&logo=api&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Strapi-2E7C21?style=for-the-badge&logo=strapi&logoColor=white" style="margin: 5px;" />
 </div>
 
 ## 🏆 GitHub Profile Trophy
