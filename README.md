@@ -6,9 +6,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="left">
-  My name is Mehdi Marzban, and I began my journey in programming in 2017 due to my strong passion for it. I pursued my studies in Computer Engineering (Software) at Shahid Chamran University of Ahvaz. Since 2020, I have been working professionally in JavaScript and have participated in various projects, including the Off-Begir project as a website designer, the Persian JavaScript project, and the Suspicious Operations Reporting and Risk Assessment project in the petrochemical industry, among others. Additionally, due to my great interest in JavaScript, I decided to learn its libraries and frameworks, such as React and Next.js, and focus on frontend development.
-</div>
+  > My name is Mehdi Marzban, and I began my journey in programming in 2017 due to my strong passion for it. I pursued my studies in Computer Engineering (Software) at Shahid Chamran University of Ahvaz. Since 2020, I have been working professionally in JavaScript and have participated in various projects, including the Off-Begir project as a website designer, the Persian JavaScript project, and the Suspicious Operations Reporting and Risk Assessment project in the petrochemical industry, among others. Additionally, due to my great interest in JavaScript, I decided to learn its libraries and frameworks, such as React and Next.js, and focus on frontend development.
 
 ## 🚀 Skills
 
