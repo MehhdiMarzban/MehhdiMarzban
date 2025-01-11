@@ -66,5 +66,14 @@
     <a href="mailto:marzban72@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="http://www.mehdi-marzban.ir">
+      <img src="https://img.shields.io/badge/Website-mehdi--marzban.ir-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=4285F4" />
+    </a>
+    <a href="http://t.me/mehhdi_marzban">
+      <img src="https://img.shields.io/badge/Telegram-@mehhdi__marzban-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+    </a>
+    <a href="http://instagram.com/mehhdi_marzban">
+      <img src="https://img.shields.io/badge/Instagram-@mehhdi__marzban-FF0069?style=for-the-badge&logo=instagram&logoColor=FF0069" />
+    </a>
   </p>
 </div>
