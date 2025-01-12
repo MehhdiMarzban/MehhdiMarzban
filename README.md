@@ -42,7 +42,7 @@
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=MehhdiMarzban&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=MehhdiMarzban&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ## 📈 GitHub Stats
