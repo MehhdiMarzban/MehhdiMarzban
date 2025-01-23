@@ -45,7 +45,7 @@
     <img  src="https://github-profile-trophy.vercel.app/?username=MehhdiMarzban&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
-## 📈 GitHub Stats
+## 🐱‍👤 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehhdiMarzban&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true" />
