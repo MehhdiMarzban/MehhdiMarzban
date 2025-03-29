@@ -51,6 +51,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehhdiMarzban&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehhdiMarzban&layout=compact&theme=radical&exclude_repo=your-repo-name" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MehhdiMarzban&theme=radical&date_format=j%20M%5B%20Y%5D&fire=EB5454" alt="GitHub Streak" /></a>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MehhdiMarzban&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehhdiMarzban&show_icons=true&theme=merko&hide_title=false&include_all_commits=true&count_private=true&line_height=24&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehhdiMarzban&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MehhdiMarzban&color=blueviolet&style=flat)
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 </div>
 
 ##  Connect with Me
