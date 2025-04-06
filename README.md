@@ -15,7 +15,6 @@
     <img src="https://skillicons.dev/icons?i=js" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=typescript" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=react" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=reactnative" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=nextjs" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=redux" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=docker" style="margin: 5px;" />
@@ -25,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=css" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=sass" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=nodejs" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=vitest" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=mui" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 5px;" />
