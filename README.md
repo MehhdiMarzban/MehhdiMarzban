@@ -43,13 +43,13 @@
 ## 🏆 GitHub Profile Trophy
 
 <div align="center">
-    <img  src="https://github-profile-trophy.vercel.app/?username=MehhdiMarzban&theme=&row=1&column=6&margin-w=15&margin-h=15" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=MehhdiMarzban&theme=radical&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehhdiMarzban&show_icons=true&count_private=true&theme=radical&include_all_commits=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehhdiMarzban&show_icons=true&count_private=true&theme=radical&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehhdiMarzban&layout=compact&theme=radical&exclude_repo=webscraper" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MehhdiMarzban&theme=radical&date_format=j%20M%5B%20Y%5D&fire=EB5454" alt="GitHub Streak" /></a>
 </div>
