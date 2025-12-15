@@ -59,7 +59,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/MehhdiMarzban">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=black" />
     </a>
     <a href="https://www.linkedin.com/in/mehdi-marzban-8851768b">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
